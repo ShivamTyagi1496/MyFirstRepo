@@ -15,4 +15,4 @@ APPLE
 apple
 >>>>>>> A
 
-Hello
+Hello Bufallo
