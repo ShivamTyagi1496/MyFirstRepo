@@ -16,3 +16,4 @@ apple
 >>>>>>> A
 
 Hello Bufallo
+GIT REVERT
